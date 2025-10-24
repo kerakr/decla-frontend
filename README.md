@@ -34,3 +34,7 @@ Here’s a sneak peek at the new look and feel of Decla.fr 👇
 
 ![Homepage Preview](public/preview-home.png)
 ![Pricing Section Preview](public/preview-home2.png)
+![Pricing Section Preview](public/preview-home3.png)
+
+
+
